@@ -1,7 +1,7 @@
 PROJECT_ID = go-sample-app-399700
 CLUSTER_NAME = go-k8s-google-cluster
 LOCATION = europe-west2
-IMAGE_NAME = europe-west2-docker.pkg.dev/$(PROJECT_ID)/intro-repo/go-k8s-google-cluster:latest
+IMAGE_NAME = europe-west2-docker.pkg.dev/$(PROJECT_ID)/intro-repo/go-k8s-google-cluster
 
 .PHONY: create-cluster delete-cluster create-image build-image delete-image
 
