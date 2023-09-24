@@ -1,0 +1,12 @@
+make create-cluster
+kubectl get nodes
+make delete-cluster
+make create-image
+make build-image
+make delete-image
+kubectl apply -f deployment.yaml
+kubectl get deployments
+kubectl get pods
+kubectl apply -f service.yaml
+kubectl get services
+
