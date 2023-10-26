@@ -4,4 +4,4 @@ My demo setup for deploying Docker containerized Go applications to an Autopilot
 - find all the commands for creation, deployment... in the cmd.txt file.
 
 
-
+External endpoint: http://34.142.21.246/
