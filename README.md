@@ -5,4 +5,6 @@ My demo setup for deploying Docker containerized Go applications to an Autopilot
 
 
 External endpoint: http://34.142.21.246/
-- this endpoint will probably no longer be working by the time you click on it 😂
+- this endpoint will probably no longer be working by the time you click on it.
+- you can find the evidence of successful deployment in https://odmg.dev/project3
+
